@@ -14,7 +14,7 @@
   Currently engineering high-fidelity full-stack applications, real-time tactical simulations, and figuring out Git (mostly).
 </blockquote>
 
-- 🧠 **Currently Building:** [SKYWOW](https://github.com/JVliyanarachchi21/SkyWOW) - Tactical Airport Management System (✅ **100% COMPLETE!**)
+- 🧠 **Currently Building:** [EVIDENT - Digital Forensics & Intelligence Investigation Platform
 - 🎯 **Latest Achievement:** Completed SkyWOW Airport Management platform with full autonomous AI Gate Dispatch, real-time Pulse Engine simulation, and biometric staff telemetry!
 - 💼 **Specializing in:**
   - **Full-Stack Development:** Next.js 14, React, Node.js, Express, TypeScript, JavaScript
